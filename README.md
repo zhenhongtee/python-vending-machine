@@ -1,1 +1,1 @@
-# vending_machine
+# python-vending-machine
